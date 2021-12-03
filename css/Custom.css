@@ -1,0 +1,15 @@
+.header{
+    background:darkblue;
+}
+.inner-footer{
+    background-color: darkgoldenrod;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+button{
+    background-color:darkmagenta;
+}
+.footers{
+    background-color: darkgoldenrod;
+
+}
